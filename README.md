@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repositiory
 <br>
-Author By-Bhavik Godhani
+Author By-Bhavik (Foram Godhani)
